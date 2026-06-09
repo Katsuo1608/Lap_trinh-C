@@ -1,2 +1,1 @@
-# Lap_trinh-C
-Tuấn Anh gay
+Git la he thong quan ly phien ban phan tan
